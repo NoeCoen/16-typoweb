@@ -1,0 +1,5 @@
+html {
+  scroll-behavior: smooth;
+  max-width: 420px;
+  margin: auto;
+}
