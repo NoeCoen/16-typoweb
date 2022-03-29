@@ -23,3 +23,7 @@ html {
   max-width: 420px;
   margin: auto;
 }
+
+h1 {
+  font-family: "adobethai_italic";
+}
