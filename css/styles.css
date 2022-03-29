@@ -1,29 +1,5 @@
-@font-face {
-  font-family: "adobethai_bold";
-  src: url(../fonts/AdobeThai-Bold.woff2) format(woff2);
-}
-
-@font-face {
-  font-family: "adobethai_bolditalic";
-  src: url(../fonts/AdobeThai-BoldItalic.woff2) format(woff2);
-}
-
-@font-face {
-  font-family: "adobethai_italic";
-  src: url(../fonts/AdobeThai-Italic.woff2) format(woff2);
-}
-
-@font-face {
-  font-family: "adobethai_regular";
-  src: url(../fonts/AdobeThai-Regular.woff2) format(woff2);
-}
-
 html {
   scroll-behavior: smooth;
   max-width: 420px;
   margin: auto;
-}
-
-h1 {
-  font-family: "adobethai_italic";
 }
