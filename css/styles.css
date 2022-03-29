@@ -3,3 +3,35 @@ html {
   max-width: 420px;
   margin: auto;
 }
+
+@font-face {
+  font-family: 'adobethai';
+  src: url(../fonts/AdobeThai-Regular.woff2) format(woff2);
+  font-weight: 400; 
+  font-style: normal; 
+  font-display: fallback; 
+}
+
+@font-face {
+  font-family: 'adobethai';
+  src: url(../fonts/AdobeThai-Bold.woff2) format(woff2);
+  font-weight: 800;
+  font-style: bold;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'adobethai';
+  src: url(../fonts/AdobeThai-Italic.woff2) format(woff2);
+  font-weight: 400;
+  font-style: italic;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'adobethai';
+  src: url(../fonts/AdobeThai-BoldItalic.woff2) format(woff2);
+  font-weight: 800;
+  font-style: bold italic;
+  font-display: fallback;
+}
