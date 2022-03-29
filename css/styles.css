@@ -1,9 +1,3 @@
-html {
-  scroll-behavior: smooth;
-  max-width: 420px;
-  margin: auto;
-}
-
 @font-face {
   font-family: 'adobethai';
   src: url(../fonts/AdobeThai-Regular.woff2) format(woff2);
@@ -32,6 +26,12 @@ html {
   font-family: 'adobethai';
   src: url(../fonts/AdobeThai-BoldItalic.woff2) format(woff2);
   font-weight: 800;
-  font-style: bold italic;
+  font-style: italic;
   font-display: fallback;
+}
+
+html {
+  scroll-behavior: smooth;
+  max-width: 420px;
+  margin: auto;
 }
